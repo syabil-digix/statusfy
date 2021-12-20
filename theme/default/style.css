@@ -1,0 +1,21 @@
+.partial-outage.timeline-incident:before {
+  border-color: #ffd33d;
+}
+
+.incident.partial-outage.unresolved .incident-title .badge {
+  background-color: #ffd33d;
+}
+
+.incident.partial-outage .incident-subtitle .status,
+.incident.partial-outage.unresolved .incident-title a {
+  color: #ffd33d;
+}
+
+.system.partial-outage .system-status {
+  color: #ffd33d;
+}
+
+.global-status.partial-outage {
+  background-color: #ffd33d;
+}
+
